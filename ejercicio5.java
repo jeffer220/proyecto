@@ -14,6 +14,7 @@ public class ejercicio5 {
          int pagoPorHora = scan.nextInt();
          //En las siguientes 7 variables se almacena el valor de las horas trabajadas
          int horasDia1 = scan.nextInt();
+         //se almacenan las horas individuales
          int horasDia2 = scan.nextInt();
          int horasDia3 = scan.nextInt();
          int horasDia4 = scan.nextInt();
