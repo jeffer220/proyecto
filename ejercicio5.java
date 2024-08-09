@@ -25,6 +25,7 @@ public class ejercicio5 {
          int horasTotales = horasDia1 + horasDia2 + horasDia3 + horasDia4 + horasDia5 + horasDia6 + horasDia7;
          //Definimos la variable para calcular el pago total
          int pagoSemanal = horasTotales * pagoPorHora;
+         //Se muestra el pago semanal del empleado
          System.out.println("El pago semanal es de " + pagoSemanal);
     }
 }
